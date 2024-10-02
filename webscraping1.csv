@@ -1,0 +1,11 @@
+Date,Day,High_temperature,Low_temperature,Weather_conditions,Rain_percentage,Wind_speed,Wind_direction
+29,Monday,36°,29°,Showers,38%,13 km/h,ESE
+30,Tuesday,34°,28°,Scattered T-Storms,57%,9 km/h,E
+31,Wednesday,30°,27°,T-Storms,68%,10 km/h,ESE
+01,Thursday,31°,27°,T-Showers,60%,10 km/h,E
+02,Friday,32°,27°,Rain / Thunder,60%,12 km/h,E
+03,Saturday,32°,27°,Light Rain,60%,13 km/h,ESE
+04,Sunday,32°,28°,Scattered T-Storms,57%,13 km/h,ESE
+05,Monday,32°,28°,Rain / Thunder,60%,11 km/h,E
+06,Tuesday,31°,27°,T-Storms,60%,12 km/h,NW
+07,Wednesday,31°,27°,Showers,58%,12 km/h,ESE
